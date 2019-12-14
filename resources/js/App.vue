@@ -11,7 +11,7 @@
           <router-link to="/create" class="nav-link">Novo</router-link>
         </li>
         <li class="nav-item">
-          <router-link to="/posts" class="nav-link">Pessoas</router-link>
+          <router-link to="/pessoas" class="nav-link">Pessoas</router-link>
         </li>
       </ul>
     </nav><br />

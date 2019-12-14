@@ -7,7 +7,7 @@
               <div class="card-header">Home Component</div>
 
               <div class="card-body">
-                  I'm the Home Component component.
+                  I'm an Home.
               </div>
           </div>
       </div>
@@ -17,7 +17,7 @@
 <script>
     export default {
         mounted() {
-            console.log('Component mounted.')
+            console.log('Index Component mounted.')
         }
     }
 </script>
